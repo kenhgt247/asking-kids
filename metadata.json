@@ -1,0 +1,7 @@
+{
+  "name": "Asking Kids - Learning World",
+  "description": "A comprehensive learning portal for kids aged 2-10 featuring interactive AI games, downloadable worksheets, and parenting resources.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
